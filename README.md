@@ -19,7 +19,7 @@
 
 - 🎓 **2nd Year** Computer Science student at Assumption University of Thailand
 - 🌱 Currently Learning **Data Science**, **Web Development**, **Database Management**, **Computer Networks**, **Cloud Computing**
-- 💡 Passionate about AI engineering, machine learning, and building intelligent systems
+- 💡 Passionate about AI Engineering, Machine Learning, and building Intelligent Systems
 - 📊 Student ID: **6726077**
 
 ---
