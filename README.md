@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+Enthusiast;Always+Learning+New+Skills)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Passionate+About+Learning;AI/ML+Enthusiast;Always+Learning+New+Skills)
 
 **🎓 Computer Science Student at Assumption University of Thailand**
 
