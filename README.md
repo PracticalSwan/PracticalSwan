@@ -82,7 +82,7 @@
 
 <div align="center">
 
-💬 Feel free to reach out for import matters or collaborations 👌!
+💬 Feel free to reach out for important matters or collaborations 👌!
 
 📧 **Email:** sithuwinsan2007@gmail.com
 
