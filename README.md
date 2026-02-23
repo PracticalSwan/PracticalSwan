@@ -1,96 +1,108 @@
-# 👋 Hi, I'm Sithu Win San
+<h1 align="center">Sithu Win San</h1>
+<h3 align="center">Computer Science Student at Assumption University of Thailand</h3>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Passionate+About+Learning;AI/ML+Enthusiast;Always+Learning+New+Skills)
+<p align="center">
+	<img src="https://img.shields.io/github/followers/PracticalSwan?label=Followers&style=for-the-badge&color=0A66C2" alt="github followers"/>
+	<img src="https://komarev.com/ghpvc/?username=PracticalSwan&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="profile views"/>
+	<a href="mailto:sithuwinsan2007@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+	</a>
+</p>
 
-**🎓 Computer Science Student at Assumption University of Thailand**
+<p align="center">
+	<a href="https://github.com/PracticalSwan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+	<a href="https://linkedin.com/in/sithuws17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+	<a href="https://discord.com/users/sithuwinsan"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+	<a href="https://line.me/ti/p/practicalswan"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line"/></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PracticalSwan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sithuws17)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sithuwinsan)
-[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/practicalswan)
+<h3 align="center">About Me</h3>
 
-</div>
+- Student ID: `6726077`
+- Focus: AI Engineering, machine learning, and practical software projects
+- Current status: Building strong fundamentals in cloud, networking, databases, and full-stack web development
 
----
+<h3 align="center">What I Am Learning (Now)</h3>
 
-## 🎯 About Me
+- `CSX2009`: Cloud foundations and AWS fundamentals
+- `CSX3005`: Computer networking, internet architecture, and TOR network concepts
+- `CSX3006`: Database systems, relational models, and SQL design
+- `CSX4107`: Web application development and backend service implementation
+- `BBA1005`: Communication and professional presentation skills
+- `GE2202`: General education and interdisciplinary thinking
+- `ITX2007`: Current IT coursework and assignment-driven practice
 
-- 🎓 **2nd Year** Computer Science student at Assumption University of Thailand
-- 🌱 Currently Learning **Data Science**, **Web Development**, **Database Management**, **Computer Networks**, **Cloud Computing**
-- 💡 Passionate about AI Engineering, Machine Learning, and building Intelligent Systems
-- 📊 Student ID: **6726077**
+<h3 align="center">What I Have Learned</h3>
 
----
+- Programming fundamentals from early CS/IT courses
+- Object-oriented thinking and software problem solving
+- Introductory data handling and basic analytics workflows
+- Collaboration through assignment, project, and peer-review activities
+- Completed course folders:
+	`BBA1006`, `CSX2006`, `CSX2008`, `CSX3001`, `CSX3002`, `CSX3003`, `ELE1002`, `ELE2000`, `ELE2001`, `GE1303`, `GE1411`, `GE2110`, `ITX1007`, `ITX2004`, `ITX2005`, `ITX3002`, `ITX3003#CSX4401`, `ITX3007`
 
-## 🛠️ Tech Stack
+<h3 align="center">Languages and Tools</h3>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+	<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+	<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+	<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+	<a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+	<a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a>
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+	<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+	<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+	<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
+	<a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/></a>
+	<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+	<a href="https://threejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/></a>
+	<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+	<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+	<a href="https://mongoosejs.com" target="_blank" rel="noreferrer"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="mongoose" height="30"/></a>
+	<a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
+	<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+	<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+	<a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
+	<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+	<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+	<a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/></a>
+	<a href="https://vitest.dev" target="_blank" rel="noreferrer"><img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40"/></a>
+	<a href="https://eslint.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/></a>
+	<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+</p>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="center">
+	<img src="https://img.shields.io/badge/Language-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
+	<img src="https://img.shields.io/badge/Also%20Used-GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" alt="gsap"/>
+	<img src="https://img.shields.io/badge/Also%20Used-Seaborn-4C78A8?style=for-the-badge" alt="seaborn"/>
+	<img src="https://img.shields.io/badge/Also%20Used-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy"/>
+	<img src="https://img.shields.io/badge/Also%20Used-Statsmodels-3B528B?style=for-the-badge" alt="statsmodels"/>
+	<img src="https://img.shields.io/badge/Also%20Used-Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker compose"/>
+</p>
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![LMStudio](https://img.shields.io/badge/LMStudio-000000?style=for-the-badge&logo=openai&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Jules](https://img.shields.io/badge/Jules-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
----
+<p align="center">
+	<img align="center" src="https://streak-stats.demolab.com/?user=PracticalSwan&theme=default" alt="streak"/>
+	<br><br>
+	<img align="center" src="https://ghchart.rshah.org/0A66C2/PracticalSwan" alt="github contribution chart"/>
+</p>
 
-## 📊 Skills & Expertise
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-```text
-📱 UI/UX Design        █████████░░   90%
-🐍 Python Programming  ████████░░░   80%
-🌐 Web Development     ████████░░░   70%
-📊 Data Science        ███████░░░░   60%
-☕ Java Programming    ██████░░░░░   50%
-🗄️ Database (SQL)      ███░░░░░░░░   30%
-```
+<h3 align="center">Connect With Me</h3>
 
----
+<p align="center">
+	<a href="mailto:sithuwinsan2007@gmail.com">Email</a> | 
+	<a href="https://linkedin.com/in/sithuws17">LinkedIn</a> | 
+	<a href="https://github.com/PracticalSwan">GitHub</a>
+</p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PracticalSwan&hide=issues&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PracticalSwan&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=PracticalSwan&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-💬 Feel free to reach out for important matters or collaborations 👌!
-
-📧 **Email:** sithuwinsan2007@gmail.com
-
-🌐 **Portfolio:** [Coming Soon]
-
-</div>
+<p align="center">Last updated: February 23, 2026</p>
