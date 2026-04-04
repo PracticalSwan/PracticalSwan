@@ -30,27 +30,41 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 ### Recently completed university coursework
 
-- `CSX2009`: Cloud foundations and AWS fundamentals
-- `CSX3005`: Computer networking, internet architecture, and TOR network concepts
-- `CSX3006`: Database systems, relational models, and SQL design
-- `CSX4107`: Web application development and backend service implementation
-- `BBA1005`: Communication and professional presentation skills
-- `GE2202`: General education and interdisciplinary thinking
-- `ITX2007`: Current IT coursework and assignment-driven practice
+- `CSX2009` - **Cloud Computing:** Cloud service models, infrastructure mechanisms, security, SLAs, reliability, cost models, and AWS Academy foundations.
+- `CSX3005` - **Computer Networks:** Network architecture, layered communication, core protocols, routing concepts, and internet-focused networking fundamentals.
+- `CSX3006` - **Database Systems:** Relational modeling, SQL, indexes, views, stored procedures, and database-backed application design through a full project.
+- `CSX4107` - **Web Application Development:** Frontend and backend web development with React, Next.js, APIs, authentication flows, and deployment-oriented project work.
+- `BBA1005` - **Essential Finance for Entrepreneurs:** Time value of money, capital budgeting, financial statements, financial ratios, and banking and interest-rate fundamentals.
+- `GE2202` - **Ethics:** Moral reasoning, ethical frameworks, SDG-linked discussions, and case-based reflection on responsible decision-making.
+- `ITX2007` - **Data Science:** Python and Jupyter workflows for EDA, data cleaning, statistics, regression, classification, and introductory unsupervised learning.
 
 ### Coursework foundation
 
-- Programming fundamentals from early CS and IT courses
-- Object-oriented thinking and software problem solving
-- Introductory data handling and basic analytics workflows
-- Collaboration through assignments, projects, and peer-review activities
+- Earlier coursework built the base for my newer CS work across mathematics, programming, communication, sustainability, business systems, and data-driven problem solving.
 
 <details>
   <summary>Earlier completed coursework</summary>
 
   <br />
 
-  `BBA1006`, `CSX2006`, `CSX2008`, `CSX3001`, `CSX3002`, `CSX3003`, `ELE1002`, `ELE2000`, `ELE2001`, `GE1303`, `GE1411`, `GE2110`, `ITX1007`, `ITX2004`, `ITX2005`, `ITX3002`, `ITX3003#CSX4401`, `ITX3007`
+  - `BBA1006` - **Essential Economics for Entrepreneurs:** Rational choice, market forces, elasticity, production costs, market structures, macro indicators, and fiscal and monetary policy.
+  - `CSX2006` - **Mathematics and Statistics for Data Science:** Quantitative reasoning for data work, including statistics, regression, clustering, and spreadsheet-based analytical practice.
+  - `CSX2008` - **Mathematics Foundation for Computer Science:** Logic, sets, functions, relations, counting, induction, number theory, and graph-based reasoning.
+  - `CSX3001` - **Fundamentals of Computer Programming:** Python-based programming fundamentals with variables, control flow, functions, modules, and hands-on problem solving.
+  - `CSX3002` - **Object-Oriented Concepts and Programming:** Java and OOP fundamentals centered on classes, objects, inheritance, and structured programming exercises.
+  - `CSX3003` - **Data Structures and Algorithms:** Core data structures, sorting, heaps, runtime analysis, and implementation-focused algorithm practice.
+  - `ELE1002` - **Communicative English II:** Intermediate English communication across speaking, listening, reading, and writing for academic and daily use.
+  - `ELE2000` - **Academic English:** Thesis and topic sentences, essay organization, summaries, compare-and-contrast writing, and presentation practice.
+  - `ELE2001` - **Advanced Academic English:** Response writing, citation and reference skills, persuasive communication, data presentation, and business-style reporting.
+  - `GE1303` - **Science for Sustainable Future:** Ecology, pollution, energy resources, waste, population issues, and sustainability-focused case studies.
+  - `GE1411` - **Thai Language for Multicultural Communication:** Everyday Thai usage together with Thai culture, geography, festivals, ceremonies, and social customs.
+  - `GE2110` - **Human Civilizations and Global Citizens:** Historical civilizations, religion, revolutions, and global citizenship through broad world-history topics.
+  - `ITX1007` - **Data Analytics for Entrepreneurs:** Spreadsheet analysis, pivot tables, dashboards, Power BI, and predictive-analytics case exercises for business data.
+  - `ITX2004` - **UI/UX Design and Prototyping:** User research, personas, journey mapping, wireframing, Figma prototyping, visual design, and usability testing.
+  - `ITX2005` - **Design Thinking:** Empathy work, problem definition, ideation, prototyping, storytelling, and pitch-oriented project development.
+  - `ITX3002` - **Introduction to Information Technology:** Core IT concepts, business-oriented tools, and practical worksheet and spreadsheet-based problem solving.
+  - `ITX3003 / CSX4401` - **Business Systems:** MIS concepts, e-business, business intelligence, digital ecosystems, ERP, and supply-chain-oriented systems thinking.
+  - `ITX3007` - **Software Engineering:** Software lifecycle fundamentals, requirements thinking, project planning, documentation, and team-based term project work.
 </details>
 
 ## Tech Stack
@@ -110,5 +124,5 @@ Computer Science student at Assumption University of Thailand with a strong inte
 </p>
 
 <p align="center">
-  Last updated: March 28, 2026
+  Last updated: April 4, 2026
 </p>
