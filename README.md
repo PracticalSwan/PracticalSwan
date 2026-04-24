@@ -1,7 +1,7 @@
 <h1 align="center">Sithu Win San</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+Assumption+University;Learning+AI%2C+ML%2C+and+practical+software+engineering;Currently+exploring+RAG+and+Agentic+AI" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+Assumption+University;Learning+AI%2C+ML%2C+and+practical+software+engineering;Currently+learning+GCI+World+2026" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 ## Current Focus
 
-- [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai) on Coursera, with a current focus on RAG pipelines, multimodal AI, LangChain, LangGraph, vector databases, and MCP-based workflows.
+- GCI World 2026, where I am learning data science foundations, Python, statistics, machine learning, regression, and classification
 - Upcoming university courses will be added after next-semester registration is finalized.
 
 ## Completed Learning
@@ -140,5 +140,5 @@ Computer Science student at Assumption University of Thailand with a strong inte
 </p>
 
 <p align="center">
-  Last updated: April 4, 2026
+  Last updated: April 25, 2026
 </p>
