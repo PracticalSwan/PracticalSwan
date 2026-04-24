@@ -77,7 +77,7 @@ Computer Science student at Assumption University of Thailand with a strong inte
     <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" /></a></td>
     <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="38" height="38" /></a></td>
     <td><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="38" height="38" /></a></td>
-    <td><a href="https://www.w3.org/2001/XMLSchema" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" alt="Database" width="38" height="38" /></a></td>
+    <td><a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" alt="SQL" width="38" height="38" /></a></td>
   </tr>
 </table>
 
@@ -121,7 +121,7 @@ Computer Science student at Assumption University of Thailand with a strong inte
 <table align="left">
   <tr>
     <td><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="38" height="38" /></a></td>
-    <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="38" /></a></td>
+    <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="38" height="38" /></a></td>
     <td><a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" /></a></td>
     <td><a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="38" height="38" /></a></td>
   </tr>
