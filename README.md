@@ -71,55 +71,47 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 **Languages:** `JavaScript`, `Python`, `Java`, `PHP`, `SQL`
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle"><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL and MySQL" height="38" /></a></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/2001/XMLSchema" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" alt="Database" width="38" height="38" /></a>
+</p>
 
 **Frontend:** `HTML`, `CSS`, `React`, `Next.js`, `Vite`, `Tailwind CSS`, `Three.js`
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://threejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="38" height="38" /></a></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://threejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="38" height="38" /></a>
+</p>
 
 **Backend and Data:** `Node.js`, `MySQL`, `MongoDB`, `Jupyter`, `NumPy`, `Pandas`, `Matplotlib`, `scikit-learn`
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="38" height="38" /></a></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="38" height="38" /></a>
+</p>
 
 **Tools and Platforms:** `Docker`, `AWS`, `Git`, `Playwright`
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle"><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" /></a></td>
-    <td align="center" valign="middle"><a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="38" height="38" /></a></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" /></a>&nbsp;&nbsp;
+  <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="38" height="38" /></a>
+</p>
 
 ## GitHub Activity
 
