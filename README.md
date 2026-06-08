@@ -28,7 +28,6 @@ Computer Science student at Assumption University of Thailand with a strong inte
 - `BBA1004` - **Essential Marketing for Entrepreneurs:** Customer needs, market segmentation, branding, positioning, and practical marketing thinking for launching and growing new ventures.
 - `CSX3009` - **Algorithm Design:** Divide-and-conquer, greedy methods, dynamic programming, correctness proofs, and time-complexity analysis for harder problem-solving tasks.
 - `CSX4207` - **Decision Support and Recommender Systems:** Data-driven decision making, recommendation techniques, user preference modeling, ranking, and evaluation of intelligent suggestion systems.
-- `BG14034` - **Professional Ethics Seminar IV:** Professional responsibility, ethical reflection, communication, and seminar-style discussion around conduct in academic and working life.
 - `CSX3004` - **Programming Languages:** How programming languages are designed and compared through syntax, semantics, paradigms, type systems, and implementation ideas.
 - `CSX4213` - **Computer Vision:** Image representation, feature extraction, object recognition, and the use of vision models to interpret visual data.
 - `CSX4201` - **Artificial Intelligence Concepts:** Core AI ideas including search, knowledge representation, reasoning, intelligent agents, and the foundations behind modern AI systems.
