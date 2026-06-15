@@ -27,7 +27,7 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 - `BBA1004` - **Essential Marketing for Entrepreneurs:** Customer needs, market segmentation, branding, positioning, and practical marketing thinking for launching and growing new ventures.
 - `CSX3009` - **Algorithm Design:** Divide-and-conquer, greedy methods, dynamic programming, correctness proofs, and time-complexity analysis for harder problem-solving tasks.
-- `CSX4207` - **Decision Support and Recommender Systems:** Data-driven decision making, recommendation techniques, user preference modeling, ranking, and evaluation of intelligent suggestion systems.
+- `CSX4207` - **Decision Support and Recommendation System:** Data-driven decision making, recommendation techniques, user preference modeling, ranking, and evaluation of intelligent suggestion systems.
 - `CSX3004` - **Programming Languages:** How programming languages are designed and compared through syntax, semantics, paradigms, type systems, and implementation ideas.
 - `CSX4213` - **Computer Vision:** Image representation, feature extraction, object recognition, and the use of vision models to interpret visual data.
 - `CSX4201` - **Artificial Intelligence Concepts:** Core AI ideas including search, knowledge representation, reasoning, intelligent agents, and the foundations behind modern AI systems.
@@ -106,11 +106,12 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 <br clear="left" />
 
-**Backend and Data:** `Node.js`, `MySQL`, `MongoDB`, `Jupyter`, `NumPy`, `Pandas`, `Matplotlib`, `scikit-learn`
+**Backend and Data:** `Node.js`, `Flask`, `MySQL`, `MongoDB`, `Jupyter`, `NumPy`, `Pandas`, `Matplotlib`, `scikit-learn`
 
 <table align="left">
   <tr>
     <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38" /></a></td>
+    <td><a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="38" height="38" /></a></td>
     <td><a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38" /></a></td>
     <td><a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" /></a></td>
     <td><a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="38" height="38" /></a></td>
@@ -147,5 +148,5 @@ Computer Science student at Assumption University of Thailand with a strong inte
 </p>
 
 <p align="center">
-  Last updated: June 4, 2026
+  Last updated: June 15, 2026
 </p>
