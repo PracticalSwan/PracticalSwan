@@ -21,6 +21,16 @@
 
 Computer Science student at Assumption University of Thailand with a strong interest in AI engineering, machine learning, and practical software projects. I enjoy learning by building, especially across modern web development, databases, cloud fundamentals, and applied AI workflows.
 
+## Featured Projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| **Groovehaus** | React, Next.js, MongoDB, authentication, recommendation systems |
+| **Mini Hands On Cube** | Three.js, 3D interaction, state management, algorithm integration |
+| **Support Signal** | Flask, LangChain, structured LLM output, IBM watsonx |
+| **Kitchen Odyssey** | Full-stack application, RBAC, analytics, uploads, Docker |
+| **Agent Skills** | AI-agent tooling, validation automation, cross-client portability |
+
 ## Current Focus
 
 ### Current semester coursework
@@ -35,7 +45,10 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 ## Completed Learning
 
-### Recently completed university coursework
+<details>
+  <summary>Recently completed university coursework</summary>
+
+  <br />
 
 - `CSX2009` - **Cloud Computing:** Cloud service models, infrastructure mechanisms, security, SLAs, reliability, cost models, and AWS Academy foundations.
 - `CSX3005` - **Computer Networks:** Network architecture, layered communication, core protocols, routing concepts, and internet-focused networking fundamentals.
@@ -44,6 +57,7 @@ Computer Science student at Assumption University of Thailand with a strong inte
 - `BBA1005` - **Essential Finance for Entrepreneurs:** Time value of money, capital budgeting, financial statements, financial ratios, and banking and interest-rate fundamentals.
 - `GE2202` - **Ethics:** Moral reasoning, ethical frameworks, SDG-linked discussions, and case-based reflection on responsible decision-making.
 - `ITX2007` - **Data Science:** Python and Jupyter workflows for EDA, data cleaning, statistics, regression, classification, and introductory unsupervised learning.
+</details>
 
 ### Coursework foundation
 
@@ -145,8 +159,4 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 <p align="center">
   <img src="https://ghchart.rshah.org/0A66C2/PracticalSwan" alt="GitHub contribution chart" />
-</p>
-
-<p align="center">
-  Last updated: June 15, 2026
 </p>
