@@ -25,7 +25,9 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 | Project | What it demonstrates |
 | --- | --- |
+| [**OCR Model**](https://github.com/PracticalSwan/csx4201-vision-info-extraction) | Local document intelligence with PaddleOCR, LayoutXLM, OpenCV, PyTorch, and Docker |
 | **Groovehaus** | React, Next.js, MongoDB, authentication, recommendation systems |
+| [**Codex ChatGPT Control Plus**](https://github.com/PracticalSwan/codex-chatgpt-control-plus-subscription) | Forked TypeScript and Python SDK for visible, user-directed ChatGPT workflows through Codex and a browser bridge |
 | **Mini Hands On Cube** | Three.js, 3D interaction, state management, algorithm integration |
 | **Support Signal** | Flask, LangChain, structured LLM output, IBM watsonx |
 | **Kitchen Odyssey** | Full-stack application, RBAC, analytics, uploads, Docker |
@@ -90,12 +92,13 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 ## Tech Stack
 
-**Languages:** `JavaScript`, `Python`, `Java`, `PHP`, `SQL`
+**Languages:** `JavaScript`, `TypeScript`, `Python`, `Java`, `PHP`, `SQL`, `SML`
 
 <table align="left">
   <tr>
     <td><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" /></a></td>
     <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" /></a></td>
+    <td><a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38" /></a></td>
     <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="38" height="38" /></a></td>
     <td><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="38" height="38" /></a></td>
     <td><a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" alt="SQL" width="38" height="38" /></a></td>
@@ -138,6 +141,17 @@ Computer Science student at Assumption University of Thailand with a strong inte
 
 <br clear="left" />
 
+**AI, Computer Vision, and Document Intelligence:** `OpenCV`, `PaddleOCR`, `LayoutXLM`, `PyTorch`, `Transformers`, `PyMuPDF`
+
+<table align="left">
+  <tr>
+    <td><a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="38" height="38" /></a></td>
+    <td><a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="38" height="38" /></a></td>
+  </tr>
+</table>
+
+<br clear="left" />
+
 **Tools and Platforms:** `Docker`, `AWS`, `Git`, `Playwright`
 
 <table align="left">
@@ -150,6 +164,8 @@ Computer Science student at Assumption University of Thailand with a strong inte
 </table>
 
 <br clear="left" />
+
+**AI-Agent Tooling:** `Codex`, `ChatGPT`, `Model Context Protocol (MCP)`, `Chrome browser bridge`
 
 ## GitHub Activity
 
