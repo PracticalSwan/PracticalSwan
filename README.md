@@ -1,177 +1,149 @@
 <h1 align="center">Sithu Win San</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+Assumption+University;Learning+AI%2C+ML%2C+and+practical+software+engineering;Building+practical+projects+and+learning+by+doing" alt="Typing introduction" />
+  Computer Science student at Assumption University of Thailand<br />
+  AI, machine learning, computer vision, recommender systems, and practical software engineering
 </p>
 
 <p align="center">
   <a href="mailto:sithuwinsan2007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/PracticalSwan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/sithuws17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/sithuwinsan"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://line.me/ti/p/practicalswan"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line" /></a>
+  <a href="https://www.linkedin.com/in/sithuws17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/PracticalSwan?label=Followers&style=flat-square&color=0A66C2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/PracticalSwan?label=GitHub%20Followers&style=flat-square" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=PracticalSwan&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 ## About Me
 
-Computer Science student at Assumption University of Thailand with a strong interest in AI engineering, machine learning, and practical software projects. I enjoy learning by building, especially across modern web development, databases, cloud fundamentals, and applied AI workflows.
+I am a B.Sc. Computer Science student building applied AI and software projects with an emphasis on evidence, privacy, testing, and practical usability. My current work spans evidence-first AI research systems, recommender systems, local document intelligence, browser applications, and AI developer tooling.
+
+I learn primarily by building complete systems: designing the architecture, implementing the product, testing failure cases, evaluating model or recommendation quality, and documenting the trade-offs.
 
 ## Featured Projects
-
 | Project | What it demonstrates |
 | --- | --- |
-| [**OCR Model**](https://github.com/PracticalSwan/csx4201-vision-info-extraction) | Local document intelligence with PaddleOCR, LayoutXLM, OpenCV, PyTorch, and Docker |
-| **Groovehaus** | React, Next.js, MongoDB, authentication, recommendation systems |
-| [**Codex ChatGPT Control Plus**](https://github.com/PracticalSwan/codex-chatgpt-control-plus-subscription) | Forked TypeScript and Python SDK for visible, user-directed ChatGPT workflows through Codex and a browser bridge |
-| **Mini Hands On Cube** | Three.js, 3D interaction, state management, algorithm integration |
-| **Support Signal** | Flask, LangChain, structured LLM output, IBM watsonx |
-| **Kitchen Odyssey** | Full-stack application, RBAC, analytics, uploads, Docker |
-| **Agent Skills** | AI-agent tooling, validation automation, cross-client portability |
+| [**UniProof**](https://github.com/PracticalSwan/UniProof) | Evidence-first AI university research, comparison, and application guidance with Next.js 16, React 19, TypeScript, Supabase/PostgreSQL RLS, structured multi-provider AI, Vitest, and Playwright |
+| [**Groovehaus Frontend**](https://github.com/PracticalSwan/vinyl_record_store_frontend) + [**Backend**](https://github.com/PracticalSwan/vinyl_record_store_backend) | Full-stack vinyl recommender system with React/Vite, Next.js, MongoDB/Mongoose, explainable recommendations, personalization controls, and offline recommender evaluation |
+| [**OCR Model**](https://github.com/PracticalSwan/OCR-Model) | Local document intelligence using PaddleOCR, LayoutXLM, PyTorch, OpenCV, schema-validated extraction, Docker, and an optional privacy-gated Codex/MCP review workflow |
+| [**Codex Router**](https://github.com/PracticalSwan/codex-router) | Local model-routing and Codex integration work around Responses API compatibility, provider adapters, credential isolation, Windows reliability, and model-catalog integration |
+| [**Codex ChatGPT Control Plus**](https://github.com/PracticalSwan/codex-chatgpt-control-plus-subscription) | TypeScript and Python SDK/tooling for visible, user-directed ChatGPT workflows through Codex, browser control, plugins, contracts, and release validation |
+| [**Rubik's Cube**](https://github.com/PracticalSwan/Rubiks-Cube) | Standalone Three.js/WebGL Rubik's Cube with manual interaction, solver-assisted recovery, Vite, Vitest, and workflow verification |
+| [**Agent Skills**](https://github.com/PracticalSwan/agent-skills) | Reusable AI-agent skills, validation workflows, and cross-client developer tooling |
 
 ## Current Focus
 
-### Current semester coursework
-
-- `BBA1004` - **Essential Marketing for Entrepreneurs:** Customer needs, market segmentation, branding, positioning, and practical marketing thinking for launching and growing new ventures.
-- `CSX3009` - **Algorithm Design:** Divide-and-conquer, greedy methods, dynamic programming, correctness proofs, and time-complexity analysis for harder problem-solving tasks.
-- `CSX4207` - **Decision Support and Recommendation System:** Data-driven decision making, recommendation techniques, user preference modeling, ranking, and evaluation of intelligent suggestion systems.
-- `CSX3004` - **Programming Languages:** How programming languages are designed and compared through syntax, semantics, paradigms, type systems, and implementation ideas.
-- `CSX4213` - **Computer Vision:** Image representation, feature extraction, object recognition, and the use of vision models to interpret visual data.
-- `CSX4201` - **Artificial Intelligence Concepts:** Core AI ideas including search, knowledge representation, reasoning, intelligent agents, and the foundations behind modern AI systems.
-- `CSX4203` - **Machine Learning:** Supervised and unsupervised learning, model training, evaluation, and practical ways to build predictive systems from data.
-
-## Completed Learning
-
-<details>
-  <summary>Recently completed university coursework</summary>
-
-  <br />
-
-- `CSX2009` - **Cloud Computing:** Cloud service models, infrastructure mechanisms, security, SLAs, reliability, cost models, and AWS Academy foundations.
-- `CSX3005` - **Computer Networks:** Network architecture, layered communication, core protocols, routing concepts, and internet-focused networking fundamentals.
-- `CSX3006` - **Database Systems:** Relational modeling, SQL, indexes, views, stored procedures, and database-backed application design through a full project.
-- `CSX4107` - **Web Application Development:** Frontend and backend web development with React, Next.js, APIs, authentication flows, and deployment-oriented project work.
-- `BBA1005` - **Essential Finance for Entrepreneurs:** Time value of money, capital budgeting, financial statements, financial ratios, and banking and interest-rate fundamentals.
-- `GE2202` - **Ethics:** Moral reasoning, ethical frameworks, SDG-linked discussions, and case-based reflection on responsible decision-making.
-- `ITX2007` - **Data Science:** Python and Jupyter workflows for EDA, data cleaning, statistics, regression, classification, and introductory unsupervised learning.
-</details>
-
-### Coursework foundation
-
-- Earlier coursework built the base for my newer CS work across mathematics, programming, communication, sustainability, business systems, and data-driven problem solving.
-
-<details>
-  <summary>Earlier completed coursework</summary>
-
-  <br />
-
-  - `BBA1006` - **Essential Economics for Entrepreneurs:** Rational choice, market forces, elasticity, production costs, market structures, macro indicators, and fiscal and monetary policy.
-  - `CSX2006` - **Mathematics and Statistics for Data Science:** Quantitative reasoning for data work, including statistics, regression, clustering, and spreadsheet-based analytical practice.
-  - `CSX2008` - **Mathematics Foundation for Computer Science:** Logic, sets, functions, relations, counting, induction, number theory, and graph-based reasoning.
-  - `CSX3001` - **Fundamentals of Computer Programming:** Python-based programming fundamentals with variables, control flow, functions, modules, and hands-on problem solving.
-  - `CSX3002` - **Object-Oriented Concepts and Programming:** Java and OOP fundamentals centered on classes, objects, inheritance, and structured programming exercises.
-  - `CSX3003` - **Data Structures and Algorithms:** Core data structures, sorting, heaps, runtime analysis, and implementation-focused algorithm practice.
-  - `ELE1002` - **Communicative English II:** Intermediate English communication across speaking, listening, reading, and writing for academic and daily use.
-  - `ELE2000` - **Academic English:** Thesis and topic sentences, essay organization, summaries, compare-and-contrast writing, and presentation practice.
-  - `ELE2001` - **Advanced Academic English:** Response writing, citation and reference skills, persuasive communication, data presentation, and business-style reporting.
-  - `GE1303` - **Science for Sustainable Future:** Ecology, pollution, energy resources, waste, population issues, and sustainability-focused case studies.
-  - `GE1411` - **Thai Language for Multicultural Communication:** Everyday Thai usage together with Thai culture, geography, festivals, ceremonies, and social customs.
-  - `GE2110` - **Human Civilizations and Global Citizens:** Historical civilizations, religion, revolutions, and global citizenship through broad world-history topics.
-  - `ITX1007` - **Data Analytics for Entrepreneurs:** Spreadsheet analysis, pivot tables, dashboards, Power BI, and predictive-analytics case exercises for business data.
-  - `ITX2004` - **UI/UX Design and Prototyping:** User research, personas, journey mapping, wireframing, Figma prototyping, visual design, and usability testing.
-  - `ITX2005` - **Design Thinking:** Empathy work, problem definition, ideation, prototyping, storytelling, and pitch-oriented project development.
-  - `ITX3002` - **Introduction to Information Technology:** Core IT concepts, business-oriented tools, and practical worksheet and spreadsheet-based problem solving.
-  - `ITX3003 / CSX4401` - **Business Systems:** MIS concepts, e-business, business intelligence, digital ecosystems, ERP, and supply-chain-oriented systems thinking.
-  - `ITX3007` - **Software Engineering:** Software lifecycle fundamentals, requirements thinking, project planning, documentation, and team-based term project work.
-</details>
+- Evidence-grounded AI systems with deterministic validation and explicit uncertainty.
+- Machine learning, computer vision, OCR, and document information extraction.
+- Recommender systems, offline evaluation, ranking, personalization, and decision support.
+- Full-stack TypeScript/JavaScript applications with strong testing and security boundaries.
+- AI developer tooling using Codex, ChatGPT, MCP, model routing, and agent workflows.
 
 ## Tech Stack
 
-**Languages:** `JavaScript`, `TypeScript`, `Python`, `Java`, `PHP`, `SQL`, `SML`
+### Languages
 
-<table align="left">
-  <tr>
-    <td><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" /></a></td>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="38" height="38" /></a></td>
-    <td><a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38" /></a></td>
-    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="38" height="38" /></a></td>
-    <td><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="38" height="38" /></a></td>
-    <td><a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/solid/database.svg" alt="SQL" width="38" height="38" /></a></td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SML](https://img.shields.io/badge/Standard_ML-444444?style=flat-square)
 
-<br clear="left" />
+### Web and Application Development
 
-**Frontend:** `HTML`, `CSS`, `React`, `Next.js`, `Vite`, `Tailwind CSS`, `Three.js`
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-<table align="left">
-  <tr>
-    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" /></a></td>
-    <td><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" /></a></td>
-    <td><a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="38" height="38" /></a></td>
-    <td><a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="38" height="38" /></a></td>
-    <td><a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="38" height="38" /></a></td>
-    <td><a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="38" height="38" /></a></td>
-    <td><a href="https://threejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" width="38" height="38" /></a></td>
-  </tr>
-</table>
+### AI, Machine Learning, and Data
 
-<br clear="left" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square)
+![LayoutXLM](https://img.shields.io/badge/LayoutXLM-5A45FF?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Backend and Data:** `Node.js`, `Flask`, `MySQL`, `MongoDB`, `Jupyter`, `NumPy`, `Pandas`, `Matplotlib`, `scikit-learn`
+### Data, Backend, and Validation
 
-<table align="left">
-  <tr>
-    <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38" /></a></td>
-    <td><a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="38" height="38" /></a></td>
-    <td><a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38" /></a></td>
-    <td><a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" /></a></td>
-    <td><a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="38" height="38" /></a></td>
-    <td><a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="38" height="38" /></a></td>
-    <td><a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="38" height="38" /></a></td>
-    <td><a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="38" height="38" /></a></td>
-    <td><a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="38" height="38" /></a></td>
-  </tr>
-</table>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-<br clear="left" />
+### Testing, Deployment, and Developer Tools
 
-**AI, Computer Vision, and Document Intelligence:** `OpenCV`, `PaddleOCR`, `LayoutXLM`, `PyTorch`, `Transformers`, `PyMuPDF`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
-<table align="left">
-  <tr>
-    <td><a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" width="38" height="38" /></a></td>
-    <td><a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="38" height="38" /></a></td>
-  </tr>
-</table>
+**AI and agent tooling:** `OpenAI Codex`, `ChatGPT`, `Model Context Protocol (MCP)`, `agent skills`, `model routing`, `browser automation`, `GitHub Actions`
 
-<br clear="left" />
+## Current Semester Coursework
 
-**Tools and Platforms:** `Docker`, `AWS`, `Git`, `Playwright`
+- `CSX3009` - Algorithm Design
+- `CSX4207` - Decision Support and Recommendation System
+- `CSX3004` - Programming Languages
+- `CSX4213` - Computer Vision
+- `CSX4201` - Artificial Intelligence Concepts
+- `CSX4203` - Machine Learning
+- `BBA1004` - Essential Marketing for Entrepreneurs
 
-<table align="left">
-  <tr>
-    <td><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="38" height="38" /></a></td>
-    <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="38" height="38" /></a></td>
-    <td><a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="38" height="38" /></a></td>
-    <td><a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="38" height="38" /></a></td>
-  </tr>
-</table>
+<details>
+  <summary>Selected completed coursework</summary>
 
-<br clear="left" />
+  <br />
 
-**AI-Agent Tooling:** `Codex`, `ChatGPT`, `Model Context Protocol (MCP)`, `Chrome browser bridge`
+- `CSX2009` - Cloud Computing
+- `CSX3005` - Computer Networks
+- `CSX3006` - Database Systems
+- `CSX4107` - Web Application Development
+- `ITX2007` - Data Science
+- `CSX2008` - Mathematics Foundation for Computer Science
+- `CSX3001` - Fundamentals of Computer Programming
+- `CSX3002` - Object-Oriented Concepts and Programming
+- `CSX3003` - Data Structures and Algorithms
+- `ITX2004` - UI/UX Design and Prototyping
+- `ITX2005` - Design Thinking
+- `ITX3007` - Software Engineering
+- `ITX3003 / CSX4401` - Business Systems
+
+</details>
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PracticalSwan&theme=default&hide_border=true" alt="GitHub streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PracticalSwan&hide_border=true" alt="GitHub streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0A66C2/PracticalSwan" alt="GitHub contribution chart" />
+  <img src="https://ghchart.rshah.org/PracticalSwan" alt="GitHub contribution chart" />
 </p>
+
+## Contact
+
+- GitHub: [PracticalSwan](https://github.com/PracticalSwan)
+- LinkedIn: [sithuws17](https://www.linkedin.com/in/sithuws17/)
+- Email: [sithuwinsan2007@gmail.com](mailto:sithuwinsan2007@gmail.com)
