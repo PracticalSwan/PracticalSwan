@@ -30,7 +30,7 @@ I care about measurable results, reproducibility, privacy boundaries, failure ha
 | **CSX4201 Receipt Rotation Classification** | Completed four-class custom PyTorch CNN workflow. The selected `ImprovedCNN` reached **93.76% held-out test accuracy** and **0.9374 macro F1** on 961 test images. Repository is private coursework. |
 | **CSX4203 CNN Image Recognition** | Completed five-class CIFAR-10 project using a custom lecture-aligned CNN. Frozen final evaluation reached **90.76% test accuracy** and **90.73% macro F1** on 5,000 images. Repository is private coursework. |
 | [**Groovehaus**](https://github.com/PracticalSwan/vinyl_record_store_frontend) ([backend](https://github.com/PracticalSwan/vinyl_record_store_backend)) | Full-stack vinyl record store and recommender system with React/Vite, Next.js, MongoDB/Mongoose, explainable hybrid recommendations, personalization, and offline evaluation. |
-| [**CodexPro Full**](https://github.com/PracticalSwan/codexpro/tree/feature/plans-01-04-20260905) | Independently maintained CodexPro fork for local ChatGPT coding workflows, including guarded workspace operations, durable tasks, code intelligence, Git safety, artifact handling, and MCP integration. Current maintained feature line: 0.32.3. |
+| [**CodexPro Full**](https://github.com/PracticalSwan/codexpro) | Independently maintained CodexPro fork for local ChatGPT coding workflows, including guarded workspace operations, durable tasks, code intelligence, Git safety, artifact handling, and MCP integration. Current maintained feature line: 0.32.3. |
 
 ## Selected Projects
 
@@ -138,7 +138,7 @@ The list below mirrors my completed-course archive and includes every course cur
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PracticalSwan&hide_border=true" alt="GitHub streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=PracticalSwan&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
