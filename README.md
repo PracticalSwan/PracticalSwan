@@ -28,7 +28,7 @@ I build and evaluate machine-learning systems, computer-vision pipelines, full-s
 | Project | What it demonstrates |
 | --- | --- |
 | [**Groovehaus**](https://github.com/PracticalSwan/vinyl_record_store_frontend) ([backend](https://github.com/PracticalSwan/vinyl_record_store_backend)) | Full-stack vinyl store and recommendation system using React/Vite, Next.js, MongoDB/Mongoose, hybrid recommendations, and personalization. |
-| [**TDS Macro**](https://github.com/PracticalSwan/tds-macro) ([Windows release](https://github.com/PracticalSwan/tds-macro/releases/latest)) | Windows desktop macro for Roblox Tower Defense Simulator: a calibrated Golden Scout solo strategy, guarded UI/OCR checks, replay automation, and bounded recovery. Validated on a specific Windows and Roblox configuration. |
+| [**TDS Macro**](https://github.com/PracticalSwan/tds-macro) | Windows desktop macro for Roblox Tower Defense Simulator: a calibrated Golden Scout solo strategy, guarded UI/OCR checks, replay automation, and bounded recovery. Validated on a specific Windows and Roblox configuration. |
 | [**Rubik's Cube**](https://github.com/PracticalSwan/Rubiks-Cube) ([live demo](https://rubiks-cube-topaz.vercel.app/)) | Interactive Three.js/WebGL 3x3x3 cube with drag controls, layer manipulation, solver assistance, and responsive rendering. |
 
 ## Current interests
